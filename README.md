@@ -10,3 +10,5 @@
 - Projeto 07 - MCP - Playwright - Navegação e preenchimento de formulários
 - Projeto 08 - MCP - Context7
 - Projeto 09 - MCP - Grafana
+- Projeto 10 - Ollama
+- Projeto 11 - OpenRouter
