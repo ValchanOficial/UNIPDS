@@ -12,3 +12,5 @@
 - Projeto 09 - MCP - Grafana
 - Projeto 10 - Ollama
 - Projeto 11 - OpenRouter
+- Projeto 12 - RAG - Embeddings - Vector Databases - Neo4j
+- Projeto 13 - RAG - Embeddings - LangChain - Neo4j
