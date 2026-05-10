@@ -1,5 +1,7 @@
 # UNIPDS
 
+## Módulo 1 - Fundamentos de IA e LLMs para Programadores
+
 - Projeto 00 - Rede neural para determinar a categoria de alunos
 - Projeto 01 - Rede neural para sistema de recomendação de produtos
 - Projeto 02 - Rede neural para classificação de imagens - DuckHunt - YOLO
@@ -14,3 +16,10 @@
 - Projeto 11 - OpenRouter
 - Projeto 12 - RAG - Embeddings - Vector Databases - Neo4j
 - Projeto 13 - RAG - Embeddings - LangChain - Neo4j
+
+## Módulo 2 - APIs de IA Generativa e Prompt Engineering
+
+## Módulo 3 - MCP - Model Context Protocol
+
+## Módulo 4 - Agentes Autônomos
+
